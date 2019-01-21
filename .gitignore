@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/burger/node_modules
+/burger/.pnp
+burger/.pnp.js
+
+# testing
+/burger/coverage
+
+# production
+/burger/build
+
+# misc
+burger/.DS_Store
+burger/.env.local
+burger/.env.development.local
+burger/.env.test.local
+burger/.env.production.local
+
+burger/npm-debug.log*
+burger/yarn-debug.log*
+burger/yarn-error.log*
