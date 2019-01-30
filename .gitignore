@@ -21,4 +21,4 @@ burger/.env.production.local
 burger/npm-debug.log*
 burger/yarn-debug.log*
 burger/yarn-error.log*
-burger/src/hoc/*
+burger/src/hoc/Aux.js
